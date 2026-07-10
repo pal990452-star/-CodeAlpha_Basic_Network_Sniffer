@@ -63,7 +63,7 @@ Basic Network Sniffer is an educational Python application that captures live ne
 # ⚙️ Installation
 
 ```bash
-git clone https://github.com/JOD7777/Basic-Network-Sniffer.git
+git clone https://github.com/pal990452-star/-CodeAlpha_Basic_Network_Sniffer.git
 
 cd Basic-Network-Sniffer
 
