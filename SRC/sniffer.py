@@ -43,9 +43,7 @@ LOGO = r"""
 # =========================================================================
 
 AUTHORIZED_USERS = {
-    "admin": "elitejod",
-    "pentester": "elitejod",
-    "root": "tootoot"
+    "admin": "admin"
 }
 
 def authenticate():
