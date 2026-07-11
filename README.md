@@ -27,6 +27,9 @@ A Python-based network packet sniffer built using <b>Scapy</b> to capture and in
 Basic Network Sniffer is an educational Python application that captures live network packets and displays useful information such as source and destination IP addresses, protocols, ports, and packet payloads. It provides hands-on experience with packet sniffing, protocol analysis, and network monitoring while helping users understand how data travels across a network.
 
 ---
+🔒 Authentication
+
+User: admin Pass: admin
 
 # ✨ Features
 
