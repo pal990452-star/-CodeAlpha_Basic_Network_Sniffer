@@ -2,7 +2,7 @@
 # 🌐 Basic Network Sniffer
 
 <p align="center">
-  <img src="Assets/Screenshot From 2026-07-10 19-24-18.png" alt="Basic Network Sniffer Banner" width="100%">
+  <img src="Assets/banner.png" alt="Basic Network Sniffer Banner" width="100%">
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Basic Network Sniffer is an educational Python application that captures live ne
 # 🎥 Demo
 
 <p align="center">
-<img src="demo.jpg" width="850">
+<img src="Assets/Screenshot From 2026-07-10 19-27-18.png" width="850">
 </p>
 
 ---
@@ -56,8 +56,9 @@ Basic Network Sniffer is an educational Python application that captures live ne
 
 | Main Menu                        |
 | -------------------------------- | 
-| ![](ex.jp) |
-
+<p align="center">
+<img src="Assets/Screenshot From 2026-07-10 19-24-18.png" width="850">
+</p>
 ---
 
 # ⚙️ Installation
