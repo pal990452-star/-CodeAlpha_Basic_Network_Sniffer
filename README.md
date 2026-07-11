@@ -2,7 +2,7 @@
 # 🌐 Basic Network Sniffer
 
 <p align="center">
-  <img src="banner.jpg" alt="Basic Network Sniffer Banner" width="100%">
+  <img src="Assets/Screenshot From 2026-07-10 19-24-18.png" alt="Basic Network Sniffer Banner" width="100%">
 </p>
 
 <p align="center">
