@@ -64,14 +64,13 @@ Basic Network Sniffer is an educational Python application that captures live ne
 
 ```bash
 git clone https://github.com/pal990452-star/-CodeAlpha_Basic_Network_Sniffer.git
-
-cd Basic-Network-Sniffer
-
+cd  -CodeAlpha_Basic-Network-Sniffer
+ls
+cd Source
+ls
+python sniffer.py
 python3 -m venv venv
-
 source venv/bin/activate
-
-pip install -r requirements.txt
 ```
 
 ---
@@ -196,7 +195,7 @@ This project is intended **for educational purposes and authorized network monit
 
 # 👨‍💻 Author
 
-**Supriyo Malik**
+**Sayani Pal**
 
 Advanced Networking & Cyber Security Student
 
